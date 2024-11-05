@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hello there,this is @Tyrue/Tyruetrue
 
-<!--
-**Tyruetrue/Tyruetrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~This is a ✨ _special_ ✨ repository~~
 
-Here are some ideas to get you started:
+I’m currently learning `C++` and working on enhancing my programming skills with the goal of becoming a full-stack developer. I’ve always been fascinated by technology, especially the process of building both the front-end and back-end of applications. In addition to learning C++, I’m actively participating in algorithm competitions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+
+### Tools I use
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,windows)](https://skillicons.dev)
